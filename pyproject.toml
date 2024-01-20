@@ -18,6 +18,7 @@ kaggle = "^1.6.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.28.0"
+notebook = "^7.0.6"
 
 [build-system]
 requires = ["poetry-core"]
